@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anchor{
+    color: black !important;
+}
+.location{
+    background-image: url(office.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.location h1{
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.location p{
+    font-size: 16px;
+    font-weight: 500;
+}
+.logo-section{
+    background-color: #C8C8C8;
+    height: 80px;
+}
+.logo img{
+    width: 100px;
+    margin-top: 20px;
+}
+.auto{
+    padding: 65px;
+}
+.auto p{
+    font-size: 16px;
+    line-height: 1.6;
+}
+.developer-section{
+    height: 400px;
+    background-color: #E0E0E0;
+}
+.dev h1{
+    font-size: 35px;
+
+}
+.dev{
+    padding: 50px;
+}
+.height img{
+    height: 210px;
+}
+.center{
+    text-align: center;
+}
+.font-size{
+    font-size: 25px;
+    font-weight: 550;
+}
+.power-section h6{
+    margin-top: 20px;
+}
+.content{
+    padding: 0 18px;
+}
+.fa-long-arrow-right:hover{
+    color: white;
+    background-color: #007ACC;
+}
+.last-section {
+    background: #1C232D;
+    color: #fff;
+    padding: 40px 0;
+
+}
+
+.last-section-btn {
+  color: #fff;
+  border: 1px solid #586D72;
+  padding: 8px 60px;
+  border-radius: 30px;
+}
+.last-section-btn:hover {
+    background: #fff;
+    color: #000;
+}
+form {
+  padding: 50px;
+  font-size: 14px;
+  color: #fff;
+  font-weight: 400;
+}
+.talk-content {
+  padding: 50px;
+
+}
+.talk-content p {
+    line-height: 1.7;
+    color: #ABAEB5;
+}
+.get-started {
+  padding: 40px;
+
+}
+.get-started p {
+    color: #ABAEB5;
+}
+.get-started-btn,.get-started-btn-2,.get-started-btn-3 {
+  color: #fff;
+  border: 1px solid #586D72;
+  padding: 8px 30px;
+  border-radius: 30px;
+}
+.get-started-btn:hover,.get-started-btn-2:hover,.get-started-btn-3:hover {
+    background: #fff;
+    color: #000;
+}
+
+.get-started-btn-2 {
+  margin-top: 40px !important;
+}
+.get-started-btn-3 {
+  margin-top: 64px !important;
+}
+
+footer {
+    background: #3E454D;
+}
+ul li {
+  margin: 0 !important;
+  padding: 2px;
+  list-style: none;
+}
+ul li a {
+  color: #C4CBD1;
+  text-decoration: none !important;
+  line-height: 1.7;
+  font-size: 15px;
+}
+ul li a:hover {
+    color: #fff;
+}
+.icon {
+  font-size: 25px;
+}
+.icon i {
+  padding: 8px;
+  color: #fff;
+}
+.icon p {
+  font-size: 13px;
+  padding: 10px
+}
+
+hr {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-top: 1px solid #fff;
+}
+
+.arrow2 {
+  margin-top: 33px;
+}
+.arrow3 {
+  margin-top: 33px;
+}
